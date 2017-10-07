@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HiLo Game</string>
+    <string name="author">Janki Padaliya (pada0008)</string>
+    <string name="start_line">Number Guesser</string>
+    <string name="guess_count">Guess Count</string>
+    <string name="left_guess">Remaining Guess</string>
+    <string name="number_input">Enter Number</string>
+    <string name="guess">Guess</string>
+    <string name="reset">Reset</string>
+    <string name="alertDialog">User Info</string>
+    <string name="validationMsg">Guess between 0 to 1000 only</string>
+</resources>
